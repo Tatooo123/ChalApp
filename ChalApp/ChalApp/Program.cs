@@ -33,3 +33,4 @@ else
     Console.WriteLine("płeć:    mężczyzna");
 }
 Console.WriteLine("wiek:    " + age);
+Console.WriteLine("Finish");
