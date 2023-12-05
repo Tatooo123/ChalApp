@@ -1,6 +1,9 @@
 ﻿var name = "Jaromir";
 var age = 17;
 var isWoman = false;
+int[] persons = new int[2];
+
+Console.WriteLine("Persons: 0 -" + persons[0] + ", 1 -" + persons[1]);
 
 if (isWoman && age < 30)
 {
